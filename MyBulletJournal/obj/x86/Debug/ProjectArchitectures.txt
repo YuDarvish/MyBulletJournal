@@ -1,0 +1,4 @@
+C:\Users\Thiago\source\repos\MyBulletJournal\MyBulletJJournal.Coree\MyBulletJournal.Coree.csproj;x86
+C:\Users\Thiago\source\repos\MyBulletJournal\MyBulletJJournal.Coree\MyBulletJournal.Coree.csproj;x86
+C:\Users\Thiago\source\repos\MyBulletJournal\MyBulletJournal.Services\MyBulletJournal.Services.csproj;x86
+C:\Users\Thiago\source\repos\MyBulletJournal\MyBulletJournal\MyBulletJournal.csproj;x86
